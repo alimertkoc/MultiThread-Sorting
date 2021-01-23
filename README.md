@@ -1,5 +1,5 @@
 # MultiThread-Sorting
-Multithreaded Sorting Program
+Sorting Program that uses multi-thread architecture. Written in C.
 
 
 to run: `findtopk_thread <k> <N> <infile1> ...<infileN> <outfile> `
