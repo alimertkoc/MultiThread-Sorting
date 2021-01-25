@@ -1,9 +1,4 @@
 
-/*
-    Muhammet Onur Bayraktar 170419821
-    Bahadır Şahin           170419822
-    Ali Mert Koç            170418018
-*/
 
 /*
     POSIX Threads kullanarak N adet
