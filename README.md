@@ -1,5 +1,5 @@
 # MultiThread-Sorting
-Sorting Program that uses multi-thread architecture. Written in C.
+Sorting Program that includes POSIX multi-thread architecture. Written in C.
 
 
 to run: `findtopk_thread <k> <N> <infile1> ...<infileN> <outfile> `
